@@ -10,7 +10,7 @@ Changes made by Ted Ralphs 12/13/13
 from source using the Visual Studio Solution files in Cbc into the directory
 BuildFromCourse.
 
-2. Creaed a directory UseWithInstaller for solution files that work with
+2. Created a directory UseWithInstaller for solution files that work with
 libraries installed by the installer for the COIN Optimization Suite. 
 
 
